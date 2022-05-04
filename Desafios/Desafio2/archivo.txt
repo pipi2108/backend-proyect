@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Shampoo Solido",
+    "precio": 1500,
+    "thumbnail": "Shampoo.png",
+    "id": 1
+  },
+  {
+    "title": "Acondicionador Solido",
+    "precio": 1500,
+    "thumbnail": "Acondicionador.png",
+    "id": 2
+  }
+]
