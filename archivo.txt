@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Shampoo Solido",
+    "precio": 1500,
+    "thumbnail": "Shampoo.png",
+    "id": 1
+  },
+  {
+    "title": "Acondicionador Solido",
+    "precio": 1500,
+    "thumbnail": "Acondicionador.png",
+    "id": 2
+  },
+  {
+    "title": "Acondicionador Solido",
+    "precio": 1500,
+    "thumbnail": "Acondicionador.png",
+    "id": 3
+  },
+  {
+    "title": "Shampoo Solido",
+    "precio": 1500,
+    "thumbnail": "Shampoo.png",
+    "id": 4
+  },
+  {
+    "title": "Acondicionador Solido",
+    "precio": 1500,
+    "thumbnail": "Acondicionador.png",
+    "id": 5
+  },
+  {
+    "title": "Cepillos cerda suave",
+    "precio": 1800,
+    "thumbnail": "cep-cerda-suave.png",
+    "id": 6
+  }
+]
