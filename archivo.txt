@@ -18,21 +18,21 @@
     "id": 3
   },
   {
-    "title": "Shampoo Solido",
-    "precio": 1500,
-    "thumbnail": "Shampoo.png",
+    "title": "cepillos cerda suave",
+    "precio": "2500",
+    "thumbnail": "www.cepillo-cerda-suave.com",
     "id": 4
   },
   {
-    "title": "Acondicionador Solido",
-    "precio": 1500,
-    "thumbnail": "Acondicionador.png",
+    "title": "Acondicionador limon",
+    "precio": "1500",
+    "thumbnail": "acondicionador.com",
     "id": 5
   },
   {
-    "title": "Cepillos cerda suave",
-    "precio": 1800,
-    "thumbnail": "cep-cerda-suave.png",
+    "title": "Shampoo bergamota",
+    "precio": "744",
+    "thumbnail": "shampoo.com",
     "id": 6
   }
 ]
