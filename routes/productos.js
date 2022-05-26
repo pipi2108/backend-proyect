@@ -10,7 +10,7 @@ router.get("/", (req, res) =>{
     async function getProducts(){
         try{
             let todos = await prod.getAll()
-            res.send(todos)
+            res.render("productos", {productos: todos})
         }catch(err){
             res.status(404).json({error: "No se ha encontrado los productos"},err);
         }
@@ -37,7 +37,7 @@ router.post("/", (req, res) => {
     async function saveProdNuevo(){
         try{
             await prod.save(prodNuevo);
-            res.send(prodNuevo)
+            res.sendfile(path.resolve("public/form.pug"));
         }catch(err){
             res.status(400).send({ error: "Datos invalidos" }, err);
         }        
